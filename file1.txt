@@ -1,1 +1,2 @@
-Hello world
+Hello world! Привіт світ!
+Hallo!
